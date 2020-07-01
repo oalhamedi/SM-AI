@@ -1,0 +1,562 @@
+                                </div>
+                                <div class="clearfix"></div>
+                        </div>
+                </div>
+                <div class="clearfix"></div>
+        </div>
+</div>
+<!-- //banner bottom -->
+
+<!-- counter -->
+<div class="services-bottom stats" id="sc">
+        <div class="banner-dott1">
+                <div class="container">
+                        <h3 class="heading">?¥U??¬?§?²?§??U??§</h3>
+                  <div class="wthree-agile-counter">
+                  <div class="col-md-3 w3_agile_stats_grid-top">
+                        <div class="w3_agile_stats_grid">
+                                <div class="agile_count_grid_left">
+                                <img src="images/tt1.png">
+                                </div>
+                                <div class="agile_count_grid_right">
+                                        <p class="counter" id="counter1">1698</p> 
+                                </div>
+                                <div class="clearfix"> </div>
+                                <h4>?¹?¯?¯ ?§U??¯U??§?¦?± ?§U??§U?U????±U?U?U??© ?§U?U
+U?U??°?©</h4>
+                        </div>
+                </div>
+                <div class="col-md-3 w3_agile_stats_grid-top">
+                        <div class="w3_agile_stats_grid">
+                                <div class="agile_count_grid_left">
+                                        <img src="images/tt2.png">
+                                </div>
+                                <div class="agile_count_grid_right">
+                                        <p class="counter" id="counter2">36</p> 
+                                </div>
+                                <div class="clearfix"> </div>
+                                <h4>?¹?¯?¯ ?§U??±U??¨U????§?? U??§U??£U??¸U
+?© ?§U?U
+U?U??§U?U?U?U??© ?§U?U
+?µU??¹?©</h4>
+                        </div>
+                </div>
+                <div class="col-md-3 w3_agile_stats_grid-top">
+                        <div class="w3_agile_stats_grid">
+                                <div class="agile_count_grid_left">
+                                        <img src="images/tt3.png">
+                                </div>
+                                <div class="agile_count_grid_right">
+                                        <p class="counter" id="counter3">434</p> 
+                                </div>
+                                <div class="clearfix"> </div>
+                                <h4>?¹?¯?¯ ?§U??§?¨?­?§?« ?§U??¹U?U
+U??© ?§U?U
+?¯?¹U?U
+?©</h4>
+                        </div>
+                </div>
+                <div class="col-md-3 w3_agile_stats_grid-top">
+                        <div class="w3_agile_stats_grid">
+                                <div class="agile_count_grid_left">
+                                        <img src="images/tt4.png">
+                                </div>
+                                <div class="agile_count_grid_right">
+                                        <p class="counter" id="counter4">834</p> 
+                                </div>
+                                <div class="clearfix"> </div>
+                                <h4>?¹?¯?¯ ?§U??§?¨??U??§?±?§?? ?§U?U
+U?U??°?© U? ?§U?U
+?³?¬U??©</h4>
+                        </div>
+                </div>
+                        <div class="clearfix"> </div>
+                </div>
+        </div>
+        </div>
+</div>
+<!-- //counter -->
+
+<!-- Team -->
+<div class="team" id="cu">
+        <h3 class="heading">?¹U
+U??§?¦U??§ ?§U?U??±?§U
+</h3>
+        <div class="container">
+                <div class="flexslider-info">
+                        <img src="images/p.jpg">
+                </div>
+        </div>
+</div>
+<!-- //Team -->
+
+<!-- U?U??° ?§?¨??U??§?±U? -->
+<div class="test_consultant" id="inv">
+        <div class="container">
+                <!-- Testimonials Slider-->
+                <div class="slider col-md-6">
+                        <h3 class="heading">?£?·U??¨ ??U?U?U??° ?§?¨??U??§?±U?</h3>
+                                <div class="callbacks_container">
+                                        <ul class="rslides callbacks callbacks1" id="slider4">
+                                                
+                                                
+                                                <li>
+                                                        <div class="testimonial">
+                                                        <p>
+        ?°?§ U?U??? ??U??§?¬U? U
+?´U?U??© U?U? ??U?U?U??° ?§?¨??U??§?±U? ?£U? ?¨?­?§?¬?© ?¥U?U? U
+?³?§?¹?¯?© ??U?U?U??© U?U? ?¨?­?«U? ?§U??¹U?U
+U? U??¶U??§ U?U
+ ?¨???¹?¨?¦?© ?§U?U?U
+U??°?¬ ?§U????§U?U? U? ?¨?¹?¯ ??U??¯U?U
+U? U?U??·U??¨ ?³U???U
+ ?§U??§???µ?§U? ?¨U? U?U????£U??¯ U
+U? ?§U?U?U??±?© ?«U
+ U???U
+ ?§?±?³?§U? ?¹?±?¶ ??U?U?U??° ?§U??§?¨??U??§?± ?¥U?U? ?¨?±U??¯U? ?§U??¥U?U????±U?U?U? U? ??U??§?µU?U? ?³?¹?± ?§U???U?U?U??° U? ?¨?¹?¯ ???­U?U?U? ?§U?U
+?¨U??? U???U
+ ??U?U?U??° ?§U??§?¨??U??§?± U??´?­U??© ?¹?¨?± ?´?±U??§?? ?§U??´?­U? ?§U??³?±U??¹                                                        
+                                                                </p><br><br>
+                                                                
+                                                                                                                        <iframe width="470" height="345"
+src="https://www.youtube.com/embed/KooikmK9Mns">
+</iframe>
+                                                                
+                                                                
+                                                        </div>
+                                                </li>
+                                        </ul>
+                <div class="clearfix"> </div>
+                                </div>
+                </div>
+                <!-- //Testimonials Slider-->
+                
+                <!-- Free consulting -->
+                <div class="consulting col-md-6">
+                        <<h3 class="heading" >U?U
+U??°?¬ ?·U??¨ ??U?U?U??° ?§?¨??U??§?±U?</h3>
+                        <div class="wthree-contact-form">
+                                        <form name="form1" action="inv.php" method="post">
+                                        <input type="hidden" name="wtd1" value="send">
+                                        <input type="text" name="name" placeholder="?§U??¥?³U
+" required="">
+                                <input type="email" class="email" name="email" placeholder="?§U??¨?±U??¯ ?§U??§U?U????±U?U?U?" required="">
+                                        <div class="clearfix"></div>
+                                        <input type="text" class="number" name="tel" placeholder="?±U?U
+ ?§U?U??§??U?" required="">
+                                        <input type="text" class="number" name="subject" placeholder="?¹U?U??§U? ?§U??§?¨??U??§?±" required="">
+                                        <input type="text" class="number" name="std" placeholder="?¬U??© ?§U??¹U
+U? ?£U? ?§U??¯?±?§?³?©" required="">
+                                        <input type="text" class="number" name="city" placeholder="?§U?U
+?¯U?U??© ?§U???U? ???³U?U? ?¨U??§" required="">
+                                        <input type="text" class="number" name="dis" placeholder="?±U?U
+ ?¨?±?§???© ?§U??§?®???±?§?¹ ?¥U? U??¬?¯" >
+                                        <input type="text" class="number" name="comp" placeholder="?¥U? U?U??? ?³???´?§?±U? U?U? U
+?³?§?¨U??© U??¶U??§ ?£?°U??±U??§" >
+                                        <input type="text" class="number" name="number" placeholder="?±U
+?² ?§U????®U?U??¶" >
+                                        <textarea name="message" placeholder="??U??§?µU?U? ?·U??¨U?" required=""></textarea>
+                                        <input name="submit" type="submit" value="?£?±?³U? ?·U??¨U?">
+                                </form>
+                        </div>
+                </div>
+                <!-- //Free consulting -->
+                <div class="clearfix"> </div>
+        </div>
+</div>
+<!-- testimonials free consulting -->
+<div class="agileits_top_menu" id="con">
+</div>
+<!-- testimonials free consulting -->
+
+<!-- Team -->
+<div  id="emb" align="center" style=" background: url(images/embs_bg.png);">
+        <br><h3 class="heading">?³U??±?§?? ?§U??£?³?§U?U??¨ ?§U??°U?U??©</h3>
+        <div class="container">
+                <div class="flexslider-info">
+                        <img src="images/embs.png">
+                        <br><br>
+                        <span style="font-size:20px;">
+                        ?¨?±U??§U
+?¬ ?³U??±?§?? ?§U??£?³?§U?U??¨ ?§U??°U?U??© U?U
+U?U?U? U
+U? ?§U??­?µU?U? ?¹U?U? U??³?¨?© U
+U? ?§U??§?±?¨?§?­
+                        U
+U? ?®U??§U? U??´?±U? U??±U??§?¨?· ?§U?U??±?´ ?§U????¹U?U?U
+U??© U? U
+U????¬?§?? ?§U??£?³?§U?U??¨ ?§U??°U?U??©
+                        <br>
+                        U?U
+?§ U????§?­ U??³U??±?§?? ?§U??§?³?§U?U??¨ ?§U??°U?U??© ?§U?U
+?´?§?±U??© U?U? ?§U?U
+?´?§?±U??¹ ?§U???U? U??¹U
+U? ?¹U?U?U??§ U?U? U
+?¬?§U? ?§U??±U??¨U??? U? ?§U??°U??§?? ?§U??µU??§?¹U?
+                        <br>
+                        U?U
+?§ ?³??U?U?U? ?§U??£U?U?U?U??© U?U? ?§U???U??¸U?U? U?U??³U??±?§?? ?§U?U??´?·U?U? .
+                        <br>
+                        <a href="https://www.s-m.com.sa/c/new.html">
+                        ?£?´???±U? ?§U??£U? ?¨?§U?U?U??± U?U??§
+                        </a>
+                        </span>
+                </div>
+        </div>
+</div>
+<!-- //Team -->
+<div class="agileits_top_menu" id="con">
+</div>
+<div class="test_consultant">
+        <div class="container">
+                <!-- Testimonials Slider-->
+                <div class="slider col-md-6">
+                        <h3 class="heading">?¥???µU? ?¨U??§</h3>
+                                <div class="callbacks_container">
+                                        <ul class="rslides callbacks callbacks1" id="slider4">
+                                                <li>
+                                                        <div class="testimonial">
+                                                                <div class="col-md-3 test_img">
+                                                                        
+                                                                </div>
+                                                
+                                                                <div class="clearfix"></div>
+                                                                <h3>?¹U??§U?U?U? ?§U???U??§?µU?</h3>
+                        <ul class="address">
+                                <li><i class="fa fa-map-marker" aria-hidden="true"></i><br>
+                                ?§U?U
+U
+U?U??© ?§U??¹?±?¨U??© ?§U??³?¹U??¯U??© - U
+U??© ?§U?U
+U??±U
+?©
+                                <br>
+?§U?U
+?±U??² ?§U??±?¦U??³U? - ?¨?·?­?§?? U??±U??´ - ?§U??´?§?±?¹ ?§U??¹?§U
+ - U
+?¨U?U? ?§U?U
+?¯?¹U? - U
+U????¨ ?±U?U
+ ?³?¨?¹?©
+                                <span>U??±?¹ ?§U?U
+?¨U??¹?§?? - ?§U?U
+?³U?U??© - ?´?§?±?¹ ?§U?U?U?U??§?±U??© - ?¨?±?¬ ?£U?U??§?¬ ?§U???U??¨?© - U
+?¹?±?¶ 4</span>
+                                        <span>U??±?¹ ?§U??§?³??U??¨?§U? - U??§?¯U? U
+U??© - U
+?¨U?U? ?§U??´?±U??§?? - U
+U????¨ ?±U?U
+ 6 ?³U?</span>
+                                </li>
+                                <li><i class="fa fa-envelope" aria-hidden="true"></i><br><a href="mailto:info@example.com">info@s-m.com.sa</a></li>
+                                <li><i class="fa fa-phone" aria-hidden="true"></i><br>0580202718</li>
+                                <li><i class="fa fa-globe" aria-hidden="true"></i><br><a href="#">U?U???U??¸U?U?: job@s-m.com.sa</a></li>
+                        </ul>
+
+                                                        </div>
+                                                </li>
+                                                
+                                                
+                                        </ul>
+                <div class="clearfix"> </div>
+                                </div>
+                </div>
+                <!-- //Testimonials Slider-->
+                
+                <!-- Free consulting -->
+                <div class="consulting col-md-6">
+                        <h3 class="heading">U?U
+U??°?¬ U?U???U??§?µU?</h3>
+                        <div class="wthree-contact-form">
+                                 <form name="form2" action="c.php" method="post">
+                                 <input type="text" name="name" placeholder="?§U??¥?³U
+" required="">
+                                <input type="email" class="email" name="email" placeholder="?§U??¨?±U??¯ ?§U??§U?U????±U?U?U?" required="">
+                                        <div class="clearfix"></div>
+                                        <input type="text" class="text" name="subject" placeholder="?¹U?U??§U? ?§U??±?³?§U??©" required=""> 
+                                        <textarea name="message" placeholder="U??µ ?§U??±?³?§U??©" required=""></textarea>
+                                        <input name="submit" type="submit" value="?¥?±?³?§U? ?§U??±?³?§U??©">
+                                </form>
+                        </div>
+                </div>
+                <!-- //Free consulting -->
+                <div class="clearfix"> </div>
+        </div>
+</div>
+<!-- testimonials free consulting -->
+
+<!-- /newsletter-->
+
+<!-- //newsletter-->
+
+<!-- footer -->
+
+<div class="footer_w3ls">
+        <div class="container">
+                <div class="footer_bottom1">
+                        <p>Smart Methods Est A©  All rights reserved 2019 </a></p>
+                </div>
+        </div>
+</div>
+<!-- //footer -->
+
+<!-- signin Model -->
+<!-- Modal1 -->
+<div class="modal fade" id="myModal1" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                        <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+                        <div class="modal-body modal-body-sub_agile">
+                                <div class="main-mailposi">
+                                        <span class="fa fa-envelope-o" aria-hidden="true"></span>
+                                </div>
+                                <div class="modal_body_left modal_body_left1">
+                                        <h3 class="agileinfo_sign">Login To Your Account</h3>
+                                        <form action="#" method="post">
+                                                <div class="styled-input agile-styled-input-top">
+                                                        <input type="text" placeholder="User Name" name="Name" required="">
+                                                </div>
+                                                <div class="styled-input">
+                                                        <input type="password" placeholder="Password" name="password" required="">
+                                                </div>
+                                                <input type="submit" value="Login">
+                                        </form>
+                                        <div class="clearfix"></div>
+                                </div>
+                                <div class="clearfix"></div>
+                        </div>
+                </div>
+                <!-- //Modal content-->
+        </div>
+</div>
+<!-- //Modal1 -->
+<!-- //signin Model -->
+
+<!-- bootstrap-modal-pop-up -->
+
+<!-- //bootstrap-modal-pop-up --> 
+        
+        <!-- js -->
+
+        
+
+        <!-- //Responsive slider  -->
+
+        <!-- Flex slider-script -->
+
+        <!-- //Flex slider-script -->
+        
+        <!-- start-smooth-scrolling -->
+
+        <!-- //end-smooth-scrolling -->
+
+        <script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
+        
+        <!-- smooth-scrolling-of-move-up -->
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/jquery.countup.js"></script>
+        <script>
+                $('.counter').countUp();
+        </script>
+
+<script type="text/javascript"> Cufon.now(); </script>
+<script type="text/javascript">
+        $(document).ready(function() {
+                $('#myRoundabout1').roundabout({
+                         shape: 'square',
+                         minScale: 0.93, // tiny!
+                         maxScale: 1, // tiny!
+                         easing:'easeOutExpo',
+                         clickToFocus:'true',
+                         focusBearing:'0',
+                         duration:800,
+                         reflect:true
+                });
+        });
+</script>
+<script src="js/responsiveslides.js"></script>
+<script>
+        $(function () {
+          $("#slider1").responsiveSlides({
+                auto: true,
+                pager: false,
+                nav: true,
+                speed: 500,
+                maxwidth: 468,
+                namespace: "centered-btns"
+          });
+        });
+</script>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+
+
+
+        <script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
+        
+        <!-- stats -->
+        <script src="js/jquery.waypoints.min.js"></script>
+        <script src="js/jquery.countup.js"></script>
+        <script>
+                $('.counter').countUp();
+        </script>
+        <!-- //stats -->
+
+        <!-- owl carousel -->
+        <script src="js/owl.carousel.js"></script>
+        <script>
+                $(document).ready(function () {
+                        $("#owl-demo").owlCarousel({
+
+                                autoPlay: 3000, //Set AutoPlay to 3 seconds
+                                autoPlay: true,
+                                items: 3,
+                                itemsDesktop: [991, 2],
+                                itemsDesktopSmall: [414, 4]
+
+                        });
+                }); 
+        </script>
+        <!-- //owl carousel -->
+        
+        <!-- Responsive slider  -->
+        <script src="js/responsiveslides.min.js"></script>
+        <script>
+                $(function () {
+                        $("#slider4").responsiveSlides({
+                                auto: true,
+                                pager: true,
+                                nav: true,
+                                speed: 1000,
+                                namespace: "callbacks",
+                                before: function () {
+                                        $('.events').append("<li>before event fired.</li>");
+                                },
+                                after: function () {
+                                        $('.events').append("<li>after event fired.</li>");
+                                }
+                        });
+                });
+        </script>
+        <!-- //Responsive slider  -->
+
+        <!-- Flex slider-script -->
+        <script defer src="js/jquery.flexslider.js"></script>
+                <script type="text/javascript">
+                
+                $(window).load(function(){
+                  $('.flexslider').flexslider({
+                        animation: "slide",
+                        start: function(slider){
+                          $('body').removeClass('loading');
+                        }
+                  });
+                });
+          </script>
+        <!-- //Flex slider-script -->
+        
+        <!-- start-smooth-scrolling -->
+        <script src="js/move-top.js"></script>
+        <script src="js/easing.js"></script>
+        <script>
+                jQuery(document).ready(function ($) {
+                        $(".scroll").click(function (event) {
+                                event.preventDefault();
+
+                                $('html,body').animate({
+                                        scrollTop: $(this.hash).offset().top
+                                }, 1000);
+                        });
+                });
+        </script>
+        <!-- //end-smooth-scrolling -->
+        
+        <!-- smooth-scrolling-of-move-up -->
+        <script>
+                $(document).ready(function () {
+                        /*
+                        var defaults = {
+                                containerID: 'toTop', // fading element id
+                                containerHoverID: 'toTopHover', // fading element hover id
+                                scrollSpeed: 1200,
+                                easingType: 'linear' 
+                        };
+                        */
+
+                        $().UItoTop({
+                                easingType: 'easeOutQuart'
+                        });
+
+                });
+        </script>
+        <!-- //smooth-scrolling-of-move-up -->
+        
+        <!-- smooth scrolling js -->
+        <script src="js/SmoothScroll.min.js"></script>
+        <!-- //smooth scrolling js -->
+        
+        <script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<script>
+// Set the date we're counting down to
+var counter4 = 0;
+var counter3 = 0;
+var counter2 = 0;
+var counter1 = 0;
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Find the distance between now and the count down date
+ 
+ 
+  
+  counter1 ++;    
+   if ( counter2 < 36 ) {
+   counter2 ++;
+    
+  }
+    if (counter3 < 675 ) {
+    counter3 ++;
+    
+  }
+    if (counter4 < 843 ) {
+     counter4 ++;
+    
+  }
+  document.getElementById("counter4").innerHTML = counter4;
+  document.getElementById("counter3").innerHTML = counter3;
+  document.getElementById("counter2").innerHTML = counter2;
+  document.getElementById("counter1").innerHTML = counter1;
+  // If the count down is over, write some text 
+  if (counter1 ==1675) {
+    clearInterval(x);
+    
+  }
+}, 5);
+</script>
+
+</body>
+</html>

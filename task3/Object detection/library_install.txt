@@ -1,0 +1,17 @@
+install the following dependencies using pip:
+
+TensorFlow
+
+$ pip install tensorflow
+
+OpenCV
+
+$ pip install opencv-python
+
+Keras
+
+$ pip install keras
+
+ImageAI
+
+$ pip install imageAI
